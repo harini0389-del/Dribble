@@ -83,7 +83,7 @@ Publish the website in the LocalHost.
 
 <body>
 
-<!-- Navbar -->
+
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container">
     <a class="navbar-brand" href="#">Dribbble</a>
@@ -103,7 +103,7 @@ Publish the website in the LocalHost.
   </div>
 </nav>
 
-<!-- Hero Section -->
+
 <section class="hero">
   <div class="container">
     <h2>What are you working on?</h2>
@@ -113,7 +113,7 @@ Publish the website in the LocalHost.
   </div>
 </section>
 
-<!-- Cards -->
+
 <div class="container mt-5">
   <div class="row g-4">
 
@@ -150,7 +150,7 @@ Publish the website in the LocalHost.
   </div>
 </div>
 
-<!-- Footer -->
+
 <footer class="bg-dark text-light text-center p-3">
   <p class="mb-0">Harini M (212225240047)</p>
 </footer>
